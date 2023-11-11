@@ -10,7 +10,7 @@
         </h2>
         <div>
             <h4>
-                ㅤEstudante de Ciência da computação na Universidade Federal Rural de Pernambuco, atualmente ㅤㅤno primeiro período.
+                ㅤEstudante de Ciência da computação na Universidade Federal Rural de Pernambuco, atualmente no primeiro período.
             </h4>
         </div>
     </div>
