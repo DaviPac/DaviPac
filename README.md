@@ -4,7 +4,7 @@
     <div class="container">
         <h1>Bem vindo ao meu github!</h1>
     </div>
-    <div display="flex">
+    <div display="flex" align="center">
         <h2>
           ㅤSobre mim
         </h2>
