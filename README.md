@@ -33,12 +33,10 @@
         ㅤMinhas redes:
     </h3>
     <p></p>
-    <div>
-        <a>ㅤㅤㅤ</a>
+    <div align="center">
         <a href="https://www.instagram.com/davi_pires_aquino/" target="_blank">
             <img width=50px src="Instagram_icon.png" alt="Instagram">
         </a>
-        <a>ㅤ</a>
         <a href="https://www.linkedin.com/in/davi-pires-224b0829a" target="_blank">
             <img width=50px src="linkedin_icon.png" alt="Linkedin">
         </a>
