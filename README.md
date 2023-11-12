@@ -4,12 +4,12 @@
     <div class="container">
         <h1>Bem vindo ao meu github!</h1>
     </div>
-    <div display="flex" align="center">
+    <div>
         <h2>
           ㅤSobre mim
         </h2>
-        <div>
-            <h4 margin-left="20px" >Estudante de Ciência da computação na Universidade Federal Rural de Pernambuco, atualmente no primeiro período.</h4>
+        <div align="center">
+            <h4>Estudante de Ciência da computação na Universidade Federal Rural de Pernambuco, atualmente no primeiro período.</h4>
         </div>
     </div>
     <div>
