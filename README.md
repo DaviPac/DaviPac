@@ -9,7 +9,7 @@
           ㅤSobre mim
         </h2>
         <div>
-            <h4 margin-left=20px >Estudante de Ciência da computação na Universidade Federal Rural de Pernambuco, atualmente no primeiro período.</h4>
+            <h4 margin=20px >Estudante de Ciência da computação na Universidade Federal Rural de Pernambuco, atualmente no primeiro período.</h4>
         </div>
     </div>
     <div>
