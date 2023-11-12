@@ -8,7 +8,7 @@
         <h2>
           ㅤSobre mim
         </h2>
-        <div style="padding-left: 20px">
+        <div padding-left="20px">
             <h4>Estudante de Ciência da computação na Universidade Federal Rural de Pernambuco, atualmente no primeiro período.</h4>
         </div>
     </div>
