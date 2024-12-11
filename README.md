@@ -20,12 +20,8 @@
                 <a href="https://github.com/DaviPac/Chess-AI">- IA de xadrez em C</a>
             </div>
             <div>
-                <a>ㅤㅤ</a>
-                <a href="https://github.com/DaviPac/contatos-arvore-binaria">- Sistema de armazenamento em árvore binária</a>
             </div>
             <div>
-                <a>ㅤㅤ</a>
-                <a href="https://github.com/DaviPac/my-site">- Meu site</a>
             </div>
         </div>
     </div>
